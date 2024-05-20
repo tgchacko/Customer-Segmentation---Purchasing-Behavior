@@ -110,6 +110,8 @@ b. Filtering Data by Date: Excluded transactions from incomplete periods for acc
 
 ![Average Cart Value by Country](https://github.com/tgchacko/Customer-Segmentation---Purchasing-Behavior/assets/169921893/3e197004-31eb-4ef6-acad-4df4b962a94d)
 
+### Top 5 Countries By Sales
+
 ![Top 5 countries by Sales](https://github.com/tgchacko/Customer-Segmentation---Purchasing-Behavior/assets/169921893/62127efb-0e29-4fff-9fc0-756089c3abaf)
 
 ![Monthly Sales Trends - UK](https://github.com/tgchacko/Customer-Segmentation---Purchasing-Behavior/assets/169921893/f49bbc08-dfcc-44d5-80c4-adde87bddac2)
